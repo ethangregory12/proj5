@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1606851814 source:c:\users\gregore2\desktop\proj5\main.cpp
+	<iostream>
+	"SortedListClass.h"
+	"FIFOQueueClass.h"
+	"random.h"
+
+1606681617 source:c:\users\gregore2\desktop\proj5\fifoqueueclass.cpp
+	"FIFOQueueClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\fifoqueueclass.h
+	"LinkedNodeClass.h"
+	"FIFOQueueClass.inl"
+
+1607318956 c:\users\gregore2\desktop\proj5\linkednodeclass.h
+	"LinkedNodeClass.inl"
+
+1606683467 source:c:\users\gregore2\desktop\proj5\linkednodeclass.cpp
+	"LinkedNodeClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\sortedlistclass.h
+	"LinkedNodeClass.h"
+	"EventClass.h"
+	"SortedListClass.inl"
+
+1607318956 c:\users\gregore2\desktop\proj5\sortedlistclass.inl
+	"SortedListClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\linkednodeclass.inl
+	"LinkedNodeClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\fifoqueueclass.inl
+	"FIFOQueueClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\random.h
+	<cstdlib>
+
+1607319154 source:c:\users\gregore2\desktop\proj5\random.cpp
+	<cstdlib>
+	"random.h"
+
+1607318956 source:c:\users\gregore2\desktop\proj5\carclass.cpp
+	"CarClass.h"
+	<iostream>
+
+1607318956 c:\users\gregore2\desktop\proj5\carclass.h
+	<iostream>
+	<string>
+	"constants.h"
+
+1607318956 c:\users\gregore2\desktop\proj5\constants.h
+	<string>
+
+1607318956 source:c:\users\gregore2\desktop\proj5\eventclass.cpp
+	<iostream>
+	"EventClass.h"
+	"constants.h"
+
+1607318956 c:\users\gregore2\desktop\proj5\eventclass.h
+	<iostream>
+	"constants.h"
+
+1607318956 source:c:\users\gregore2\desktop\proj5\intersectionsimulationclass.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"IntersectionSimulationClass.h"
+	"random.h"
+
+1607318956 c:\users\gregore2\desktop\proj5\intersectionsimulationclass.h
+	<string>
+	"SortedListClass.h"
+	"EventClass.h"
+	"FIFOQueueClass.h"
+	"CarClass.h"
+
+1607318956 source:c:\users\gregore2\desktop\proj5\project5.cpp
+	<iostream>
+	<string>
+	"IntersectionSimulationClass.h"
+
+1606860035 source:c:\users\ethan\desktop\proj5\carclass.cpp
+	"CarClass.h"
+	<iostream>
+
+1606864347 c:\users\ethan\desktop\proj5\carclass.h
+	<iostream>
+	<string>
+	"constants.h"
+
+1606860035 c:\users\ethan\desktop\proj5\constants.h
+	<string>
+
+1606860035 source:c:\users\ethan\desktop\proj5\eventclass.cpp
+	<iostream>
+	"EventClass.h"
+	"constants.h"
+
+1606860035 c:\users\ethan\desktop\proj5\eventclass.h
+	<iostream>
+	"constants.h"
+
+1606940082 source:c:\users\ethan\desktop\proj5\intersectionsimulationclass.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"IntersectionSimulationClass.h"
+	"random.h"
+
+1606860035 c:\users\ethan\desktop\proj5\intersectionsimulationclass.h
+	<string>
+	"SortedListClass.h"
+	"EventClass.h"
+	"FIFOQueueClass.h"
+	"CarClass.h"
+
+1606860035 c:\users\ethan\desktop\proj5\sortedlistclass.h
+	"LinkedNodeClass.h"
+	"EventClass.h"
+	"SortedListClass.inl"
+
+1606860035 c:\users\ethan\desktop\proj5\linkednodeclass.h
+	"LinkedNodeClass.inl"
+
+1606860035 c:\users\ethan\desktop\proj5\linkednodeclass.inl
+	"LinkedNodeClass.h"
+	<iostream>
+
+1606860035 c:\users\ethan\desktop\proj5\sortedlistclass.inl
+	"SortedListClass.h"
+	<iostream>
+
+1606860035 c:\users\ethan\desktop\proj5\fifoqueueclass.h
+	"LinkedNodeClass.h"
+	"FIFOQueueClass.inl"
+
+1606935745 c:\users\ethan\desktop\proj5\fifoqueueclass.inl
+	"FIFOQueueClass.h"
+	<iostream>
+
+1606860035 c:\users\ethan\desktop\proj5\random.h
+	<cstdlib>
+
+1606860035 source:c:\users\ethan\desktop\proj5\main.cpp
+	<iostream>
+	"SortedListClass.h"
+	"FIFOQueueClass.h"
+	"random.h"
+
+1606860035 source:c:\users\ethan\desktop\proj5\project5.cpp
+	<iostream>
+	<string>
+	"IntersectionSimulationClass.h"
+
+1606860035 source:c:\users\ethan\desktop\proj5\random.cpp
+	<cstdlib>
+	"random.h"
+

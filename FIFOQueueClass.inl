@@ -171,19 +171,20 @@ void FIFOQueueClass< T >::clear(
    {
       LinkedNodeClass< T > *tempCountingPtr;
       tempCountingPtr = head->getNext()->getNext();
-      
 //Iterates the tempCountingPtr to delete all but the last node:
       for (int n = 1; n <= (numElems-2); n++)
       {
          delete tempCountingPtr->getPrev();
          tempCountingPtr = tempCountingPtr->getNext();
+         
       }
 //Deletes the second to last node in the linked queue:
       delete tempCountingPtr->getPrev();
 //Deletes the final node in the linked queue (Prev of tail):
       delete tail->getPrev();
-      delete tempCountingPtr;
+//      delete tempCountingPtr;
       head->setNextPointerToNull();
       tail->setPreviousPointerToNull();
    }
+
 };

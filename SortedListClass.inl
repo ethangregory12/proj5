@@ -76,7 +76,7 @@ void SortedListClass< T >::clear(
       delete tempCountingPtr->getPrev();
 //Deletes the final node in the linked list (Prev of tail):
       delete tail->getPrev();
-      delete tempCountingPtr;
+//      delete tempCountingPtr;
       head->setNextPointerToNull();
       tail->setPreviousPointerToNull();
    }

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proj5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proj5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="paramsB.txt" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proj5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CarClass.cpp" />
+		<Unit filename="CarClass.h" />
+		<Unit filename="EventClass.cpp" />
+		<Unit filename="EventClass.h" />
+		<Unit filename="FIFOQueueClass.h" />
+		<Unit filename="FIFOQueueClass.inl" />
+		<Unit filename="IntersectionSimulationClass.cpp" />
+		<Unit filename="IntersectionSimulationClass.h" />
+		<Unit filename="LinkedNodeClass.h" />
+		<Unit filename="LinkedNodeClass.inl" />
+		<Unit filename="SortedListClass.h" />
+		<Unit filename="SortedListClass.inl" />
+		<Unit filename="constants.h" />
+		<Unit filename="paramsA.txt" />
+		<Unit filename="project5.cpp" />
+		<Unit filename="random.cpp" />
+		<Unit filename="random.h" />
+		<Unit filename="simpleHandTraceExample (1).png" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
